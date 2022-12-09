@@ -1,7 +1,11 @@
 ### Hi I am Rohinish, Glad to see you here! 👋
 
 I am Rohinish.k.singh. 
-I am currently learning Java (DSA) and also interested in Devops.I am always open to contributing on projects.Feel free to connect with me on twitter.
+I am currently learning React and building projects.
+Thinking of starting with Typescript soon.
+i'd built several projects using html,css and javascript in the past. You can see all the projects i'd uploaded here.
+
+Feel free to connect with me on twitter.
 
 <!--
 **rohinish404/rohinish404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
