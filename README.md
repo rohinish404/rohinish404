@@ -1,9 +1,10 @@
 ### Hi I am Rohinish, Glad to see you here! 👋
 
 I am Rohinish.k.singh. 
-I am currently learning React and building projects.
-Thinking of starting with Typescript soon.
-i'd built several projects using html,css and javascript in the past. You can see all the projects i'd uploaded here.
+- 🔭 I’m currently working on building projects using NextJs.
+- 🌱 I’m currently learning NextJs as well as NodeJs.
+-  👯 I’m looking to collaborate on frontend projects which use javascript,react or nextjs.
+- 📫 How to reach me: Twitter(@rohinish404)
 
 Feel free to connect with me on twitter.
 
