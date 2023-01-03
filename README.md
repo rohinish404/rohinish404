@@ -4,9 +4,11 @@ I am Rohinish.k.singh.
 - 🔭 I’m currently working on building projects using NextJs.
 - 🌱 I’m currently learning NextJs as well as NodeJs.
 -  👯 I’m looking to collaborate on frontend projects which use javascript,react or nextjs.
-- 📫 How to reach me: Twitter(@rohinish404)
+- 📫 How to reach me: 
+- Email-singhrohinish09@gmail.com
+- Twitter(@rohinish404)
 
-Feel free to connect with me on twitter.
+
 
 <!--
 **rohinish404/rohinish404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
