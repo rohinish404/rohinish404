@@ -2,7 +2,7 @@
 
 I am Rohinish.k.singh. 
 - 🔭 I’m currently working on building projects using NextJs.
-- 🌱 I’m currently learning NextJs as well as NodeJs.
+- 🌱 I’m currently learning NextJs as well as Typerscript.
 -  👯 I’m looking to collaborate on frontend projects which use javascript,react or nextjs.
 - 📫 How to reach me: 
 - Email- singhrohinish09@gmail.com
