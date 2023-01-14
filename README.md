@@ -22,7 +22,9 @@ I am Rohinish.k.singh.
 
 ## 📊 My Statistics:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohinish404&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=rohinish404&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rohinish404&theme=shades-of-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohinish404&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 
